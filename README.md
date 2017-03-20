@@ -1,0 +1,2 @@
+# Cordova_AndroidProject
+CordovaのAndroidProjectです．
